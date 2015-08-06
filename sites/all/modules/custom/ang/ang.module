@@ -1,6 +1,6 @@
 <?php
 /**
- * Implements hook_menu().
+ * Implements hook_menu(). 
  */
 function ang_menu() {
   $items = array();
